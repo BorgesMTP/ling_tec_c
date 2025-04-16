@@ -1,8 +1,15 @@
 # Linguagem e Técnicas de Programação
-</div>
-Repositório de projetos da disciplina de Linguagem e técnicas de programação em C.<\n>
-</div>
-Faculdade: UNIUBE - UBERLÂNDIA<\n>
-Disciplina: Linguagem Técnica de Programação<\n>
-Professor Teórico: Stéfano Schwenck Borges Vale Vita<\n>
-Professor Prático: Camilo de Lellis Barreto Junior<\n>
+Repositório de projetos da disciplina de Linguagem e técnicas de programação em C.<br/>
+***
+Faculdade: UNIUBE - UBERLÂNDIA<br/>
+Disciplina: Linguagem Técnica de Programação<br/>
+Professor Teórico: Stéfano Schwenck Borges Vale Vita<br/>
+Professor Prático: Camilo de Lellis Barreto Junior<br/>
+***
+Atividades incluem:
+  1. Sintaxe básica;
+  2. Lógica de programação;
+  3. Atribuição de variáveis;
+  4. Input;
+  5. Algorítmos condicionais;
+  6. Looping de condição.
